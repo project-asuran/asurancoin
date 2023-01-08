@@ -129,7 +129,7 @@ public:
         vSeeds.emplace_back("dnsseed.litecoinpool.org");
         vSeeds.emplace_back("dnsseed.koin-project.com");
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,48);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,50);
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,176);
@@ -169,9 +169,9 @@ public:
 
         chainTxData = ChainTxData{
             // Data from rpc: getchaintxstats 4096 62e2e3d21343a00994d38a63524867507dbeee6850e8fbf02e9c47a3ccf82f24
-            /* nTime    */ 1641142661,
-            /* nTxCount */ 100225898,
-            /* dTxRate  */ 1.17733189266096
+            /* nTime    */ 1672974745,
+            /* nTxCount */ 0,
+            /* dTxRate  */ 0
         };
     }
 };
