@@ -125,8 +125,8 @@ public:
         // release ASAP to avoid it where possible.
         vSeeds.emplace_back("0.0.0.1");
         vSeeds.emplace_back("0.0.0.2");
-        // vSeeds.emplace_back("dnsseed.litecointools.com");
-        // vSeeds.emplace_back("dnsseed.litecoinpool.org");
+        // vSeeds.emplace_back("dnsseed.asurancointools.com");
+        // vSeeds.emplace_back("dnsseed.asurancoinpool.org");
         // vSeeds.emplace_back("dnsseed.koin-project.com");
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,23);
