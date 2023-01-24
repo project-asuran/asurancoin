@@ -1,5 +1,5 @@
-Building Litecoin
+Building Asurancoin
 ================
 
 See doc/build-*.md for instructions on building the various
-elements of the Litecoin Core reference implementation of Litecoin.
+elements of the Asurancoin Core reference implementation of Asurancoin.
