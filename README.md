@@ -15,7 +15,7 @@ out collectively by the network. Asurancoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Asurancoin Core software, see [https://asurancoin.org](https://asurancoin.org).
+the Asurancoin Core software, see [https://asuran.co.in](https://asuran.co.in).
 
 License
 -------
